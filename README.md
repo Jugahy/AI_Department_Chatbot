@@ -5,11 +5,11 @@ Chatbot development project to introduce the Department of Artificial Intelligen
 
 ### Table of contents 
 
-1. [Overview](#1-Overview)
+1. [Overview](#1️⃣-Overview)
 2. [Role](#2️⃣-Role)
-3. [Skills & Process](#3-Skills-&-Process)
-4. [References](#4-References)
-5. [Structure](#5-Structure)
+3. [Skills & Process](#3️⃣-Skills-&-Process)
+4. [References](#4️⃣-References)
+5. [Structure](#5️⃣-Structure)
 
 
  
