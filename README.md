@@ -8,6 +8,8 @@ Chatbot development project to introduce the Department of Artificial Intelligen
 1. [Overview](#1-Overview)
 2. [Role](#2-Role)
 3. [Skills & Process](#3-Skills-&-Process)
+4. [References](#4-References)
+5. [Structure](#5-Structure)
 
 
  
