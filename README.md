@@ -38,7 +38,7 @@ Chatbot development project to introduce the Department of Artificial Intelligen
 
 
 
-## 3️⃣ Skills & Process <a id="idx3"></a>
+## 3️⃣ Skills & Process
 
 ### Project skills 
 
