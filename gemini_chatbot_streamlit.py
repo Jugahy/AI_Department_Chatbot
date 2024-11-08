@@ -51,7 +51,7 @@ if prompt := st.chat_input("전주대학교 인공지능 학과에 대해 궁금
         st.markdown(answer)
 
     # 챗봇 응답을 세션 상태에 추가
-    st.session_state.messages.append({"role": "assistant", "content": answer)
+    st.session_state.messages.append({"role": "assistant", "content": answer})
 
 
 
