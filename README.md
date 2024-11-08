@@ -29,7 +29,7 @@ Chatbot development project to introduce the Department of Artificial Intelligen
 
 ## 2️⃣ Role
 
-|<img src="https://github.com/user-attachments/assets/3c1b3fdc-7fac-4932-8073-9e6b51bddf81" width="150" height="150"/>|<img src="https://github.com/user-attachments/assets/bef1a11a-d69d-440a-9ed5-7c8f39548c5a" width="150" height="150"/>|
+|<img src="https://github.com/user-attachments/assets/f9323ec6-0bfa-4dba-8589-4abb0948f2b7" width="150" height="150"/>|<img src="https://github.com/user-attachments/assets/bef1a11a-d69d-440a-9ed5-7c8f39548c5a" width="150" height="150"/>|
 |:-:|:-:|
 |Jang DaeHyeon<br/>[@JangDaeHyeon](https://github.com/JangDaeHyeon)|Jeong GangHyeon<br/>[@JUGAHY](https://github.com/JUGAHY)|
 
