@@ -16,10 +16,14 @@ Chatbot development project to introduce the Department of Artificial Intelligen
 ## 1️⃣ Overview
 
 ### 1-1. 개발 배경
-전주 중앙여고 고교박람회, 입시 설명회에서 활용할 **전주대학교 인공지능학과 소개 Chatbot**을 개발하게 되었습니다. 이를 통해 인공지능 기술을 활용한 학과 홍보 효과를 기대하고 있습니다.
+전주 중앙여고 고교박람회, 입시 설명회에서 활용할 **전주대학교 인공지능학과 소개 Chatbot**을 개발하게 되었습니다. 
+<br/>
+이를 통해 인공지능 기술을 활용한 학과 홍보 효과를 기대하고 있습니다.
 
 ### 1-2. 실행 영상
-![762f295b-1325-4e17-88f8-cdd0e0a93155](https://github.com/user-attachments/assets/d55450e4-820e-4dbe-ad52-be77e809d265)
+[Test Link](https://aideparmentchatbot-ctdprhparxfonvigmt8jgf.streamlit.app/)
+
+![chatbot](https://github.com/user-attachments/assets/a461295a-8014-444c-97b1-f406588e4e19)
 
 
 
