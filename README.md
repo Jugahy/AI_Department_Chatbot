@@ -79,4 +79,5 @@ AI Department Chatbot
 ├── gemini_chatbot_streamlit.py
 │
 ├── requirements.txt
+├── faq_data.json
 ```
