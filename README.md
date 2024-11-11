@@ -66,6 +66,7 @@ __3. Application deployment__
 * https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps
 * https://ai.google.dev/gemini-api/docs?hl=ko
 * https://share.streamlit.io/
+* https://jsonlint.com/
 
 
 
