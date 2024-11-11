@@ -8,8 +8,9 @@ Chatbot development project to introduce the Department of Artificial Intelligen
 1. [Overview](#1️⃣-overview)
 2. [Role](#2️⃣-role)
 3. [Skills & Process](#3️⃣-skills--process)
-4. [References](#4️⃣-references)
-5. [Structure](#5️⃣-structure)
+4. [Structure](#4️⃣-structure)
+5. [References](#5️⃣-references)
+
 
 
  
@@ -61,16 +62,7 @@ __3. Application deployment__
 
 
 
-## 4️⃣ References
-* https://docs.streamlit.io/
-* https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps
-* https://ai.google.dev/gemini-api/docs?hl=ko
-* https://share.streamlit.io/
-* https://jsonlint.com/
-
-
-
-## 5️⃣ Structure
+## 4️⃣ Structure
 ```
 AI Department Chatbot
 ├── README.md
@@ -82,3 +74,11 @@ AI Department Chatbot
 ├── requirements.txt
 ├── faq_data.json
 ```
+
+
+## 5️⃣ References
+* https://docs.streamlit.io/
+* https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps
+* https://ai.google.dev/gemini-api/docs?hl=ko
+* https://share.streamlit.io/
+* https://jsonlint.com/
